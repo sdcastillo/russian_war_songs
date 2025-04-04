@@ -1,10 +1,10 @@
 # Are you getting tired of the censorship?  
 
-It is always interesting to gain insight into other cultures.  Russian’s invasion into Ukraine sparked a shift in the type of music that soldiers listen to.  
+It is always interesting to gain insight into other cultures.  Culture changes are market by a shift in the type of music that users listen to.  
 
 Essentially…
 
-Regardless of what genre that you listen to, music pumps the brain with subliminal messages.  Guns, violence, war, all get tagged into playlists which influences people share.  Music conveys messages.  It’s called a mnemonic device.  
+Regardless of what genre that you listen to, music pumps the brain with subliminal messages.  Sports, Dating, Violence, all get tagged into playlists which influences people share.  Music conveys messages.  It’s called a mnemonic device.  
 
 For this post, I need to take you back in time.  A few months ago, I was applying for a data science job and the interview challenge was to use the python library spotipy.  I was tasked to created a data pipeline to pull song details into a CSV file. This is faster than making an SQLite database.  
 
